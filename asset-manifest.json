@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smc-mentorverse/static/css/main.a34480b3.css",
+    "main.js": "/smc-mentorverse/static/js/main.c8cfd936.js",
+    "static/js/787.c90fb1ee.chunk.js": "/smc-mentorverse/static/js/787.c90fb1ee.chunk.js",
+    "static/media/logo.svg": "/smc-mentorverse/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/smc-mentorverse/index.html",
+    "main.a34480b3.css.map": "/smc-mentorverse/static/css/main.a34480b3.css.map",
+    "main.c8cfd936.js.map": "/smc-mentorverse/static/js/main.c8cfd936.js.map",
+    "787.c90fb1ee.chunk.js.map": "/smc-mentorverse/static/js/787.c90fb1ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a34480b3.css",
+    "static/js/main.c8cfd936.js"
+  ]
+}
